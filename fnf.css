@@ -5,7 +5,9 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    
    }
+
 
    h1 {
     color: white;
@@ -29,5 +31,9 @@ body {
   h3{
       font-size:large
   }
+
+
+
+
 
 
